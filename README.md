@@ -5,13 +5,13 @@ Please follow this instraction:
 In VS, Terminal section;
 Type and Enter:
 
-flutter pub get
+1-flutter pub get
 
-then
 
-flutter build apk
 
-then
-flutter run
+2-flutter build apk
+
+
+3-flutter run
 
 Done!
