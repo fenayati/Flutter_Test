@@ -4,7 +4,8 @@ Please follow this instraction:
 
 In VS, Terminal section;
 Type and Enter:
-a-flutter pub get
+
+flutter pub get
 
 then
 
